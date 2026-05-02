@@ -1,0 +1,9 @@
+{
+  "technology": "Silver-ion / silver-carbon solid-state (emerging)",
+  "charge_to_80_min": 9.0,
+  "charge_to_100_min": 10.0,
+  "max_range_miles": 600.0,
+  "final_soc_pct": 100.0,
+  "final_range_miles": 600.0,
+  "availability_note": "Pilot-stage technology with broader adoption expected from 2026 onward."
+}

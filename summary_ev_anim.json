@@ -1,0 +1,22 @@
+{
+  "cycle": "mixed",
+  "operation_mode": "charge",
+  "car_status": "Charging",
+  "plugged_in": true,
+  "duration_s": 540.0,
+  "distance_km": 0.0,
+  "final_soc_pct": 20.0,
+  "final_range_km": 0.0,
+  "final_temp_c": 30.006650334134047,
+  "final_soh_pct": 99.71574230846574,
+  "final_efficiency_km_per_kwh": 0.0,
+  "final_pack_voltage_v": 315.7378564088532,
+  "initial_time_to_full_hr": 0.9890776616235613,
+  "final_time_to_full_hr": 0.9890776616235613,
+  "max_temperature_c": 30.006650334134047,
+  "thermal_alert_count": 0,
+  "max_battery_power_kw": -50.0,
+  "min_battery_power_kw": -50.0,
+  "max_regen_power_kw": 0.0,
+  "energy_out_kwh": 0.0
+}
